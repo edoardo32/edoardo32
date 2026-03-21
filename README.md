@@ -1,4 +1,4 @@
-# Hi, I'm Eddy
+# Hi, I'm EDOARDO
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
