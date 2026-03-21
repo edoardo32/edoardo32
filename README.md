@@ -21,5 +21,5 @@ I'm currently based in Bologna, Italy, working toward launching my first startup
 Languages  →  Python · JavaScript
 Frontend   →  React · HTML/CSS
 AI/ML      →  LLMs · RAG · semantic search · sentence-transformers
-Tools      →  Cursor · Git · Vercel
+Tools      →  Antigravity · Git · Vercel
 ```
