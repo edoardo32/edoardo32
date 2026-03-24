@@ -7,7 +7,7 @@
 ![Web Design](https://img.shields.io/badge/WEB_DESIGN-E11D48?style=for-the-badge&logo=dribbble&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-059669?style=for-the-badge&logo=databricks&logoColor=white)
 
-My primary programming language is Python, and my long-term interests focus on AI, LLMs, and building products that are both functional and well-designed. In recent months, I have been concentrating on AI-powered application development and the exploration of practical use cases (like pornhub site) for large language models.
+My primary programming language is Python, and my long-term interests focus on AI, LLMs, and building products that are both functional and well-designed. In recent months, I have been concentrating on AI-powered application development and the exploration of practical use cases for large language models.
 
 I hope to grow into a full stack engineer and an independent developer known for creating polished and thoughtful work. I also enjoy designing visually aesthetic web pages and creative digital content.
 
